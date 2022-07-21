@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulina
-- 👀 I am interested in testing the application. I am currently studying and I want to enter the IT world in the future :)
+- 👀 I am interested in testing the application. I'm currently learning how to test applications and I want to enter the IT world in the future :)
 - 🌱 I’m currently learning SQL and HTML5.
 - 📫 How to reach me: my email: Paulinaerlich23@gmail.com 
 
